@@ -1,0 +1,616 @@
+Cod,Titlu
+111,"Cultivarea cerealelor (exclusiv orez), plantelor leguminoase si a plantelor producatoare de seminte oleaginoase"
+112,Cultivarea orezului
+113,"Cultivarea legumelor si a pepenilor, a radacinoaselor si tuberculilor"
+114,Cultivarea trestiei de zahar
+115,Cultivarea tutunului
+116,Cultivarea plantelor pentru fibre textile
+119,Cultivarea altor plante din culturi nepermanente
+121,Cultivarea strugurilor
+122,Cultivarea fructelor tropicale si subtropicale
+123,Cultivarea fructelor citrice
+124,Cultivarea fructelor semintoase si sâmburoase
+125,"Cultivarea fructelor arbustilor fructiferi, capsunilor, nuciferilor si a altor pomi fructiferi"
+126,Cultivarea fructelor oleaginoase
+127,Cultivarea plantelor pentru prepararea bauturilor
+128,"Cultivarea condimentelor, plantelor aromatice, medicinale si a plantelor de uz farmaceutic"
+129,Cultivarea altor plante permanente
+130,Cultivarea plantelor pentru înmultire
+141,Cresterea bovinelor de lapte
+142,Cresterea altor bovine
+143,Cresterea cailor si a altor cabaline
+144,Cresterea camilelor si a camelidelor
+145,Cresterea ovinelor si caprinelor
+146,Cresterea porcinelor
+147,Cresterea pasarilor
+149,Cresterea altor animale
+150,Activitati în ferme mixte (cultura vegetala combinata cu cresterea animalelor)
+161,Activitati auxiliare pentru productia vegetala
+162,ctivitati auxiliare pentru cresterea animalelor
+163,Activitati dupa recoltare
+164,Pregatirea semintelor în vederea însamântarii
+170,"Vânatoare, capturarea cu capcane a vânatului si activitati de servicii anexe vânatorii"
+210,Silvicultura si alte activitati forestiere
+220,Exploatarea forestiera
+230,Colectarea plantelor si fructelor din flora spontana (excl. material lemnos)
+240,Activitati de servicii anexe silviculturii
+311,Pescuitul maritim
+312,Pescuitul în ape dulci
+321,Acvacultura maritima
+322,Acvacultura în ape dulci
+510,Extractia carbunelui superior (PCS=>23865 kJ/kg)
+520,Extractia carbunelui inferior (PCS<23865 kJ/kg)
+610,Extractia petrolului brut
+620,Extractia gazelor naturale
+710,Extractia minereurilor feroase
+721,Extractia minereurilor de uraniu si toriu
+729,Extractia altor minereuri metalifere neferoase
+811,"Extractia pietrei ornamentale si a pietrei pentru constructii, extractia pietrei calcaroase, ghipsului, cretei si a ardeziei"
+812,Extractia pietrisului si nisipului; extractia argilei si caolinului
+891,Extractia mineralelor pentru industria chimica si a îngrasamintelor naturale
+892,Extractia si aglomerarea turbei
+893,Extractia sarii
+899,Alte activitati extractive n.c.a.
+910,Activitati de servicii anexe extractiei petrolului brut si gazelor naturale
+990,Activitati de servicii anexe pentru extractia mineralelor
+1011,Prelucrarea si conservarea carnii
+1012,Prelucrarea si conservarea carnii de pasare
+1013,Fabricarea produselor din carne (inclusiv din carne de pasare)
+1020,"Prelucrarea si conservarea pestelui, crustaceelor si molustelor"
+1031,Prelucrarea si conservarea cartofilor
+1032,Fabricarea sucurilor de fructe si legume
+1039,Prelucrarea si conservarea fructelor si legumelor n.c.a.
+1041,Fabricarea uleiurilor si grasimilor
+1042,Fabricarea margarinei si a altor produse comestibile similare
+1051,Fabricarea produselor lactate si a brânzeturilor
+1052,Fabricarea înghetatei
+1061,Fabricarea produselor de morarit
+1062,Fabricarea amidonului si a produselor din amidon
+1071,Fabricarea pâinii; fabricarea prajiturilor si a produselor proaspete de patiserie
+1072,Fabricarea biscuitilor si piscoturilor; fabricarea prajiturilor si a produselor conservate de patiserie
+1073,"Fabricarea macaroanelor, taiteilor, cus-cus-ului si a altor produse fainoase similare"
+1081,Fabricarea zaharului
+1082,"Fabricarea produselor din cacao, a ciocolatei si a produselor zaharoase"
+1083,Prelucrarea ceaiului si cafelei
+1084,Fabricarea condimentelor si ingredientelor
+1085,Fabricarea de mâncaruri preparate
+1086,Fabricarea preparatelor alimentare omogenizate si alimentelor dietetice
+1089,Fabricarea altor produse alimentare n.c.a.
+1091,Fabricarea preparatelor pentru hrana animalelor de ferma
+1092,Fabricarea preparatelor pentru hrana animalelor de companie
+1101,"Distilarea, rafinarea si mixarea bauturilor alcoolice"
+1102,Fabricarea vinurilor din struguri
+1103,Fabricarea cidrului si a altor vinuri din fructe
+1104,"Fabricarea altor bauturi nedistilate, obtinute prin fermentare"
+1105,Fabricarea berii
+1106,Fabricarea maltului
+1107,Productia de bauturi racoritoare nealcoolice; productia de ape minerale si alte ape îmbuteliate
+1200,Fabricarea produselor din tutun
+1310,Pregatirea fibrelor si filarea fibrelor textile
+1320,Productia de tesaturi
+1330,Finisarea materialelor textile
+1391,Fabricarea de metraje prin tricotare sau crosetare
+1392,Fabricarea de articole confectionate din textile (cu exceptia îmbracamintei si lenjeriei de corp)
+1393,Fabricarea de covoare si mochete
+1394,"Fabricarea de odgoane, frânghii, sfori si plase"
+1395,"Fabricarea de textile netesute si articole din acestea, cu exceptia confectiilor de îmbracaminte"
+1396,Fabricarea de articole tehnice si industriale din textile
+1399,Fabricarea altor articole textile n.c.a.
+1411,Fabricarea articolelor de îmbracaminte din piele
+1412,Fabricarea articolelor de îmbracaminte pentru lucru
+1413,Fabricarea altor articole de îmbracaminte (exclusiv lenjeria de corp)
+1414,Fabricarea de articole de lenjerie de corp
+1419,Fabricarea altor articole de îmbracaminte si accesorii n.c.a.
+1420,Fabricarea articolelor din blana
+1431,Fabricarea prin tricotare sau crosetare a ciorapilor si articolelor de galanterie
+1439,Fabricarea prin tricotare sau crosetare a altor articole de îmbracaminte
+1511,Tabacirea si finisarea pieilor; prepararea si vopsirea blanurilor
+1512,Fabricarea articolelor de voiaj si marochinarie si a articolelor de harnasament
+1520,Fabricarea încaltamintei
+1610,Taierea si rindeluirea lemnului
+1621,Fabricarea de furnire si a panourilor de lemn
+1622,Fabricarea parchetului asamblat în panouri
+1623,"Fabricarea altor elemente de dulgherie si tâmplarie, pentru constructii"
+1624,Fabricarea ambalajelor din lemn
+1629,"Fabricarea altor produse din lemn; fabricarea articolelor din pluta, paie si din alte materiale vegetale împletite"
+1711,Fabricarea celulozei
+1712,Fabricarea hârtiei si cartonului
+1721,Fabricarea hârtiei si cartonului ondulat si a ambalajelor din hârtie si carton
+1722,"Fabricarea produselor de uz gospodaresc si sanitar, din hârtie sau carton"
+1723,Fabricarea articolelor de papetarie
+1724,Fabricarea tapetului
+1729,Fabricarea altor articole din hârtie si carton n.c.a.
+1811,Tiparirea ziarelor
+1812,Alte activitati de tiparire n.c.a.
+1813,Servicii pregatitoare pentru pretiparire
+1814,Legatorie si servicii conexe
+1820,Reproducerea înregistrarilor
+1910,Fabricarea produselor de cocserie
+1920,Fabricarea produselor obtinute din prelucrarea titeiului
+2011,Fabricarea gazelor industriale
+2012,Fabricarea colorantilor si a pigmentilor
+2013,"Fabricarea altor produse chimice anorganice, de baza"
+2014,"Fabricarea altor produse chimice organice, de baza"
+2015,Fabricarea îngrasamintelor si produselor azotoase
+2016,Fabricarea materialelor plastice în forme primare
+2017,Fabricarea cauciucului sintetic în forme primare
+2020,Fabricarea pesticidelor si a altor produse agrochimice
+2030,"Fabricarea vopselelor, lacurilor, cernelii tipografice si masticurilor"
+2041,"Fabricarea sapunurilor, detergentilor si a produselor de întretinere"
+2042,Fabricarea parfumurilor si a produselor cosmetice (de toaleta)
+2051,Fabricarea explozivilor
+2052,Fabricarea cleiurilor
+2053,Fabricarea uleiurilor esentiale
+2059,Fabricarea altor produse chimice n.c.a.
+2060,Fabricarea fibrelor sintetice si artificiale
+2110,Fabricarea produselor farmaceutice de baza
+2120,Fabricarea preparatelor farmaceutice
+2211,Fabricarea anvelopelor si a camerelor de aer; resaparea si refacerea anvelopelor
+2219,Fabricarea altor produse din cauciuc
+2221,"Fabricarea placilor, foliilor, tuburilor si profilelor din material plastic"
+2222,Fabricarea articolelor de ambalaj din material plastic
+2223,Fabricarea articolelor din material plastic pentru constructii
+2229,Fabricarea altor produse din material plastic
+2311,Fabricarea sticlei plate
+2312,Prelucrarea si fasonarea sticlei plate
+2313,Fabricarea articolelor din sticla
+2314,Fabricarea fibrelor din sticla
+2319,Fabricarea de sticlarie tehnica
+2320,Fabricarea de produse refractare
+2331,Fabricarea placilor si dalelor din ceramica
+2332,"Fabricarea caramizilor, tiglelor si a altor produse pentru constructii, din argila arsa"
+2341,Fabricarea articolelor ceramice pentru uz gospodaresc si ornamental
+2342,Fabricarea de obiecte sanitare din ceramica
+2343,Fabricarea izolatorilor si pieselor izolante din ceramica
+2344,Fabricarea altor produse tehnice din ceramica
+2349,Fabricarea altor produse ceramice n.c.a.
+2351,Fabricarea cimentului
+2352,Fabricarea varului si ipsosului
+2361,Fabricarea produselor din beton pentru constructii
+2362,Fabricarea produselor din ipsos pentru constructii
+2363,Fabricarea betonului
+2364,Fabricarea mortarului
+2365,Fabricarea produselor din azbociment
+2369,"Fabricarea altor articole din beton, ciment si ipsos"
+2370,"Taierea, fasonarea si finisarea pietrei"
+2391,Fabricarea de produse abrazive
+2399,"Fabricarea altor produse din minerale nemetalice, n.c.a."
+2410,Productia de metale feroase sub forme primare si de feroaliaje
+2420,"Productia de tuburi, tevi, profile tubulare si accesorii pentru acestea, din otel"
+2431,Tragere la rece a barelor
+2432,Laminare la rece a benzilor înguste
+2433,Productia de profile obtinute la rece
+2434,Trefilarea firelor la rece
+2441,Productia metalelor pretioase
+2442,Metalurgia aluminiului
+2443,"Productia plumbului, zincului si cositorului"
+2444,Metalurgia cuprului
+2445,Productia altor metale neferoase
+2446,Prelucrarea combustibililor nucleari
+2451,Turnarea fontei
+2452,Turnarea otelului
+2453,Turnarea metalelor neferoase usoare
+2454,Turnarea altor metale neferoase
+2511,Fabricarea de constructii metalice si parti componente ale structurilor metalice
+2512,Fabricarea de usi si ferestre din metal
+2521,Productia de radiatoare si cazane pentru încalzire centrala
+2529,"Productia de rezervoare, cisterne si containere metalice"
+2530,Productia generatoarelor de aburi (cu exceptia cazanelor pentru încalzire centrala)
+2540,Fabricarea armamentului si munitiei
+2550,Fabricarea produselor metalice obtinute prin deformare plastica; metalurgia pulberilor
+2561,Tratarea si acoperirea metalelor
+2562,Operatiuni de mecanica generala
+2571,Fabricarea produselor de taiat
+2572,Fabricarea articolelor de feronerie
+2573,Fabricarea uneltelor
+2591,"Fabricarea de recipiente, containere si alte produse similare din otel"
+2592,Fabricarea ambalajelor usoare din metal
+2593,Fabricarea articolelor din fire metalice; fabricarea de lanturi si arcuri
+2594,"Fabricarea de suruburi, buloane si alte articole filetate; fabricarea de nituri si saibe"
+2599,Fabricarea altor articole din metal n.c.a.
+2611,Fabricarea subansamblurilor electronice (module)
+2612,Fabricarea altor componente electronice
+2620,Fabricarea calculatoarelor si a echipamentelor periferice
+2630,Fabricarea echipamentelor de comunicatii
+2640,Fabricarea produselor electronice de larg consum
+2651,"Fabricarea de instrumente si dispozitive pentru masura, verificare, control, navigatie"
+2652,Productia de ceasuri
+2660,"Fabricarea de echipamente pentru radiologie, electrodiagnostic si electroterapie"
+2670,Fabricarea de instrumente optice si echipamente fotografice
+2680,Fabricarea suportilor magnetici si optici destinati înregistrarilor
+2711,"Fabricarea motoarelor, generatoarelor si transformatoarelor electrice si a aparatelor de distributie si control a electricitatii"
+2712,Fabricarea aparatelor de control si distributie a electricitatii
+2720,Fabricarea de acumulatori si baterii
+2731,Fabricarea de cabluri cu fibra optica
+2732,Fabricarea altor fire si cabluri electrice si electrocasnice
+2733,Fabricarea dispozitivelor de conexiune pentru fire si cabluri electrice si electronice
+2740,Fabricarea de echipamente electrice de iluminat
+2751,Fabricarea de aparate electrocasnice
+2752,Fabricarea de echipamente casnice neelectrice
+2790,Fabricarea altor echipamente electrice
+2811,"Fabricarea de motoare si turbine (cu exceptia celor pentru avioane, autovehicule si motociclete)"
+2812,Fabricarea de motoare hidraulice
+2813,Fabricarea de pompe si compresoare
+2814,Fabricarea de articole de robinetarie
+2815,"Fabricarea lagarelor, angrenajelor, cutiilor de viteza si a elementelor mecanice de transmisie"
+2821,"Fabricarea cuptoarelor, furnalelor si arzatoarelor"
+2822,Fabricarea echipamentelor de ridicat si manipulat
+2823,Fabricarea masinilor si echipamentelor de birou (exclusiv fabricarea calculatoarelor si a echipamentelor periferice)
+2824,Fabricarea masinilor-unelte portabile actionate electric
+2825,"Fabricarea echipamentelor de ventilatie si frigorifice, exclusiv a echipamentelor de uz casnic"
+2829,Fabricarea altor masini si utilaje de utilizare generala n.c.a.
+2830,Fabricarea masinilor si utilajelor pentru agricultura si exploatari forestiere
+2841,Fabricarea utilajelor si a masinilor-unelte pentru prelucrarea metalului
+2849,Fabricarea altor masini-unelte n.c.a.
+2891,Fabricarea utilajelor pentru metalurgie
+2892,Fabricarea utilajelor pentru extractie si constructii
+2893,"Fabricarea utilajelor pentru prelucrarea produselor alimentare, bauturilor si tutunului"
+2894,"Fabricarea utilajelor pentru industria textila, a îmbracamintei si a pielariei"
+2895,Fabricarea utilajelor pentru industria hârtiei si cartonului
+2896,Fabricarea utilajelor pentru prelucrarea maselor plastice si a cauciucului
+2899,Fabricarea altor masini si utilaje specifice n.c.a.
+2910,Fabricarea autovehiculelor de transport rutier
+2920,Productia de caroserii pentru autovehicule; fabricarea de remorci si semiremorci
+2931,Fabricarea de echipamente electrice si electronice pentru autovehicule si pentru motoare de autovehicule
+2932,Fabricarea altor piese si accesorii pentru autovehicule si pentru motoare de autovehicule
+3011,Constructia de nave si structuri plutitoare
+3012,onstructia de ambarcatiuni sportive si de agrement
+3020,Fabricarea materialului rulant
+3030,Fabricarea de aeronave si nave spatiale
+3040,Fabricarea vehiculelor militare de lupta
+3091,Fabricarea de motociclete
+3092,Fabricarea de biciclete si de vehicule pentru invalizi
+3099,Fabricarea altor mijloace de transport n.c.a.
+3101,Fabricarea de mobila pentru birouri si magazine
+3102,Fabricarea de mobila pentru bucatarii
+3103,Fabricarea de saltele si somiere
+3109,Fabricarea de mobila n.c.a.
+3211,Baterea monedelor
+3212,Fabricarea bijuteriilor si articolelor similare din metale si pietre pretioase
+3213,Fabricarea imitatiilor de bijuterii si articole similare
+3220,Fabricarea instrumentelor muzicale
+3230,Fabricarea articolelor pentru sport
+3240,Fabricarea jocurilor si jucariilor
+3250,"Productia de dispozitive, aparate si instrumente medicale si stomatologice"
+3291,Fabricarea maturilor si periilor
+3299,Fabricarea altor produse manufacturiere n.c.a.
+3311,Repararea articolelor fabricate din metal
+3312,Repararea masinilor
+3313,Repararea echipamentelor electronice si optice
+3314,Repararea echipamentelor electrice
+3315,Repararea si întretinerea navelor si barcilor
+3316,Repararea si întretinerea aeronavelor si navelor spatiale
+3317,Repararea si întretinerea altor echipamente de transport n.c.a.
+3319,Repararea altor echipamente
+3320,Instalarea masinilor si echipamentelor industriale
+3511,Productia de energie electrica
+3512,Transportul energiei electrice
+3513,Distributia energiei electrice
+3514,Comercializarea energiei electrice
+3521,Productia gazelor
+3522,"Distributia combustibililor gazosi, prin conducte"
+3523,"Comercializarea combustibililor gazosi, prin conducte"
+3530,Furnizarea de abur si aer conditionat
+3600,"Captarea, tratarea si distributia apei"
+3700,Colectarea si epurarea apelor uzate
+3811,Colectarea deseurilor nepericuloase
+3812,Colectarea deseurilor periculoase
+3821,Tratarea si eliminarea deseurilor nepericuloase
+3822,Tratarea si eliminarea deseurilor periculoase
+3831,Demontarea (dezasamblarea) masinilor si echipamentelor scoase din uz pentru recuperarea materialelor
+3832,Recuperarea materialelor reciclabile sortate
+3900,Activitati si servicii de decontaminare
+4110,Dezvoltare (promovare) imobiliara
+4120,Lucrari de constructie a cladirilor rezidentiale si nerezidentiale
+4211,Lucrari de constructii a drumurilor si autostrazilor
+4212,Lucrari de constructii a cailor ferate de suprafata si subterane
+4213,Constructia de poduri si tuneluri
+4221,Lucrari de constructie a proiectelor utilitare pentru fluide
+4222,Lucrari de constructie a proiectelor utilitare pentru electricitate si telecomunicatii
+4291,Constructii hidrotehnice
+4299,Lucrari de constructii a altor proiecte ingineresti n.c.a
+4311,Lucrari de demolare a constructiilor
+4312,Lucrari de pregatire a terenului
+4313,Lucrari de foraj si sondaj pentru constructii
+4321,Lucrari de instalatii electrice
+4322,"Lucrari de instalatii sanitare, de încalzire si de aer conditionat"
+4329,Alte lucrari de instalatii pentru constructii
+4331,Lucrari de ipsoserie
+4332,Lucrari de tâmplarie si dulgherie
+4333,Lucrari de pardosire si placare a peretilor
+4334,"Lucrari de vopsitorie, zugraveli si montari de geamuri"
+4339,Alte lucrari de finisare
+4391,"Lucrari de învelitori, sarpante si terase la constructii"
+4399,Alte lucrari speciale de constructii n.c.a.
+4511,"Comert cu autoturisme si autovehicule usoare (sub 3,5 tone)"
+4519,Comert cu alte autovehicule
+4520,Întretinerea si repararea autovehiculelor
+4531,Comert cu ridicata de piese si accesorii pentru autovehicule
+4532,Comert cu amanuntul de piese si accesorii pentru autovehicule
+4540,"Comert cu motociclete, piese si accesorii aferente; întretinerea si repararea motocicletelor"
+4611,"Intermedieri în comertul cu materii prime agricole, animale vii, materii prime textile si cu bunuri semifinite"
+4612,"Intermedieri în comertul cu combustibili, minereuri, metale si produse chimice pentru industrie"
+4613,Intermedieri în comertul cu material lemnos si materiale de constructii
+4614,"Intermedieri în comertul cu masini, echipamente industriale, nave si avioane"
+4615,"Intermedieri în comertul cu mobila, articole de menaj si de fierarie"
+4616,"Intermedieri în comertul cu textile, confectii din blana , încaltaminte si articole din piele Aceasta clasa exclude:"
+4617,"Intermedieri în comertul cu produse alimentare, bauturi si tutun"
+4618,"Intermedieri în comertul specializat în vânzarea produselor cu caracter specific, n.c.a."
+4619,Intermedieri în comertul cu produse diverse
+4621,"Comert cu ridicata al cerealelor, semintelor, furajelor si tutunului neprelucrat"
+4622,Comert cu ridicata al florilor si al plantelor
+4623,Comert cu ridicata al animalelor vii
+4624,"Comert cu ridicata al blanurilor, pieilor brute si al pieilor prelucrate"
+4631,Comert cu ridicata al fructelor si legumelor
+4632,Comert cu ridicata al carnii si produselor din carne
+4633,"Comert cu ridicata al produselor lactate, oualelor, uleiurilor si grasimilor comestibile"
+4634,Comert cu ridicata al bauturilor
+4635,Comert cu ridicata al produselor din tutun
+4636,"Comert cu ridicata al zaharului, ciocolatei si produselor zaharoase"
+4637,"Comert cu ridicata cu cafea, ceai, cacao si condimente"
+4638,"Comert cu ridicata specializat al altor alimente, inclusiv peste, crustacee si moluste"
+4639,"Comert cu ridicata nespecializat de produse alimentare, bauturi si tutun"
+4641,Comert cu ridicata al produselor textile
+4642,Comert cu ridicata al îmbracamintei si încaltamintei
+4643,"Comert cu ridicata al aparatelor electrice de uz gospodaresc, al aparatelor de radiosi televizoare"
+4644,"Comert cu ridicata al produselor din ceramica, sticlarie, si produse de întretinere"
+4645,Comert cu ridicata al produselor cosmetice si de parfumerie
+4646,Comert cu ridicata al produselor farmaceutice
+4647,"Comert cu ridicata al mobilei, covoarelor si articolelor de iluminat"
+4648,Comert cu ridicata al ceasurilor si bijuteriilor
+4649,Comert cu ridicata al altor bunuri de uz gospodaresc
+4651,"Comert cu ridicata al calculatoarelor, echipamentelor periferice si software- ului"
+4652,Comert cu ridicata de componente si echipamente electronice si de telecomunicatii
+4661,"Comert cu ridicata al masinilor agricole, echipamentelor si furniturilor"
+4662,Comert cu ridicata al masinilor- unelte
+4663,Comert cu ridicata al masinilor pentru industria miniera si constructii
+4664,Comert cu ridicata al masinilor pentru industria textila si al masinilor de cusut si de tricotat
+4665,Comert cu ridicata al mobilei de birou
+4666,Comert cu ridicata al altor masini si echipamente de birou
+4669,Comert cu ridicata al altor masini si echipamente
+4671,"Comert cu ridicata al combustibililor solizi, lichizi si gazosi al produselor derivate"
+4672,Comert cu ridicata al metalelor si minereurilor metalice
+4673,Comert cu ridicata al materialului lemnos si al materialelor de constructii si echipamentelor sanitare si de încalzire
+4674,Comert cu ridicata al echipamentelor si furniturilor de fierarie pentru instalatii sanitare si de încalzire
+4675,Comert cu ridicata al produselor chimice
+4676,Comert cu ridicata al altor produse intermediare
+4677,Comert cu ridicata al deseurilor si resturilor
+4690,Comert cu ridicata nespecializat
+4711,"Comert cu amanuntul în magazine nespecializate, cu vânzare predominanta de produse alimentare, bauturi si tutun"
+4719,"omert cu amanuntul în magazine nespecializate, cu vânzare predominanta de produse nealimentare"
+4721,"Comert cu amanuntul al fructelor si legumelor proaspete, în magazine specializate"
+4722,"Comert cu amanuntul al carnii si al produselor din carne, în magazine specializate"
+4723,"Comert cu amanuntul al pestelui, crustaceelor si molustelor, în magazine specializate"
+4724,"omert cu amanuntul al pâinii, produselor de patiserie si produselor zaharoase, în magazine"
+4725,"Comert cu amanuntul al bauturilor, în magazine specializate"
+4726,"Comert cu amanuntul al produselor din tutun, în magazine specializate"
+4729,"Comert cu amanuntul al altor produse alimentare, în magazine specializate"
+4730,Comert cu amanuntul al carburantilor pentru autovehicule în magazine specializate
+4741,"Comert cu amanuntul al calculatoarelor, unitatilor periferice si software-ului in magazine specializate"
+4742,Comert cu amanuntul al echipamentului pentru telecomunicatii în magazine specializate
+4743,Comert cu amanuntul al echipamentului audio/ video în magazine specializate
+4751,"Comert cu amanuntul al textilelor, în magazine specializate"
+4752,"Comert cu amanuntul al articolelor de fierarie, al articolelor din sticla si al celor pentru vopsit, înmagazine specializate"
+4753,"Comert cu amanuntul al covoarelor, carpetelor, tapetelor si a altor acoperitoare de podea, în magazine specializate"
+4754,"Comert cu amanuntul al articolelor si aparatelor electrocasnice, în magazine specializate"
+4759,"Comert cu amanuntul al mobilei, al articolelor de iluminat si al articolelor de uz casnic n.c.a., în magazine specializate"
+4761,"Comert cu amanuntul al cartilor, în magazine specializate"
+4762,"Comert cu amanuntul al ziarelor si articolelor de papetarie, în magazine specializate"
+4763,"Comert cu amanuntul al discurilor si benzilor magnetice cu sau fara înregistrari audio/ video , înmagazine specializate"
+4764,"Comert cu amanuntul al echipamentelor sportive, în magazine specializate"
+4765,"Comert cu amanuntul al jocurilor si jucariilor, în magazine specializate"
+4771,"Comert cu amanuntul al îmbracamintei, în magazine specializate"
+4772,"Comert cu amanuntul al încaltamintei si articolelor din piele, în magazine specializate"
+4773,"Comert cu amanuntul al produselor farmaceutice, în magazine specializate"
+4774,"Comert cu amanuntul al articolelor medicale si ortopedice, în magazine specializate"
+4775,"Comert cu amanuntul al produselor cosmetice si de parfumerie, în magazine specializate"
+4776,"Comert cu amanuntul al florilor, plantelor si semintelor, comert cu amanuntul al animalelor de companie si a hranei pentru acestea, în magazine specializate"
+4777,"Comert cu amanuntul al ceasurilor si bijuteriilor, în magazine specializate"
+4778,"Comert cu amanuntul al altor bunuri noi, în magazine specializate"
+4779,Comert cu amanuntul al bunurilor de ocazie vândute prin magazine
+4781,"Comert cu amanuntul al produselor alimentare, bauturilor si produselor din tutun efectuat prin standuri, chioscuri si piete"
+4782,"Comert cu amanuntul al textilelor, îmbracamintei si încaltamintei efectuat prin standuri, chioscuri si piete"
+4789,"Comert cu amanuntul prin standuri, chioscuri si piete al altor produse"
+4791,Comert cu amanuntul prin intermediul caselor de comenzi sau prin Internet
+4799,"Comert cu amanuntul efectuat în afara magazinelor, standurilor, chioscurilor si pietelor"
+4910,Transporturi interurbane de calatori pe calea ferata
+4920,Transporturi de marfa pe calea ferata
+4931,"Transporturi urbane, suburbane si metropolitane de calatori"
+4932,Transporturi cu taxiuri
+4939,Alte transporturi terestre de calatori n.c.a
+4941,Transporturi rutiere de marfuri
+4942,Servicii de mutare
+4950,Transporturi prin conducte
+5010,Transporturi maritime si costiere de pasageri
+5020,Transporturi maritime si costiere de marfa
+5030,Transporturi de pasageri pe cai navigabile interioare
+5040,Transportul de marfa pe cai navigabile interioare
+5110,Transporturi aeriene de pasageri
+5121,Transporturi aeriene de marfa
+5122,Transporturi spatiale
+5210,Depozitari
+5221,Activitati de servicii anexe pentru transporturi terestre
+5222,Activitati de servicii anexe transportului pe apa
+5223,Activitati de servicii anexe transporturilor aeriene
+5224,Manipulari
+5229,Alte activitati anexe transporturilor
+5310,Activitati postale desfasurate sub obligativitatea serviciului universal
+5320,Alte activitati postale si de curier
+5510,Hoteluri si alte facilitati de cazare similare
+5520,Facilitati de cazare pentru vacante si perioade de scurta durata
+5530,"Parcuri pentru rulote, campinguri si tabere"
+5590,Alte servicii de cazare
+5610,Restaurante
+5621,Activitati de alimentatie (catering) pentru evenimente
+5629,Alte activitati de alimentatie n.c.a.
+5630,Baruri si alte activitati de servire a bauturilor
+5811,Activitati de editare a cartilor
+5812,"Activitati de editare de ghiduri, compendii, liste de adrese si similare"
+5813,Activitati de editare a ziarelor
+5814,Activitati de editare a revistelor si periodicelor
+5819,Alte activitati de editare
+5821,Activitati de editare a jocurilor de calculator
+5829,Activitati de editare a altor produse software
+5911,"Activitati de productie cinematografica, video si de programe de televiziune"
+5912,"Activitati de post-productie cinematografica, video si de programe de televiziune"
+5913,"Activitati de distributie a filmelor cinematografice, video si a programelor de televiziune"
+5914,Proiectia de filme cinematografice
+5920,Activitati de realizare a înregistrarilor audio si activitati de editare muzicala
+6010,Activitati de difuzare a programelor de radio
+6020,Activitati de difuzare a programelor de televiziune
+6110,Activitati de telecomunicatii prin retele cu cablu
+6120,Activitati de telecomunicatii prin retele fara cablu (exclusiv prin satelit)
+6130,Activitati de telecomunicatii prin satelit
+6190,Alte activitati de telecomunicatii
+6201,Activitati de realizare a software-ului la comanda (software orientat client)
+6202,Activitati de consultanta în tehnologia informatiei
+6203,Activitati de management (gestiune si exploatare) a mijloacelor de calcul
+6209,Alte activitati de servicii privind tehnologia informatiei
+6311,"Prelucrarea datelor, administrarea paginilor web si activitati conexe"
+6312,Activitati ale portalurilor web
+6391,Activitati ale agentiilor de stiri
+6399,Alte activitati de servicii informationale n.c.a.
+6411,Activitati ale bancii centrale (nationale)
+6419,Alte activitati de intermedieri monetare
+6420,Activitati ale holdingurilor
+6430,Fonduri mutuale si alte entitati financiare similare
+6491,Leasing financiar
+6492,Alte activitati de creditare
+6499,Alte intermedieri financiare n.c.a.
+6511,Activitati de asigurari de viata
+6512,Alte activitati de asigurari (exceptând asigurarile de viata)
+6520,Activitati de reasigurare
+6530,Activitati ale fondurilor de pensii (cu exceptia celor din sistemul public de asigurari sociale)
+6611,Administrarea pietelor financiare
+6612,Activitati de intermediere a tranzactiilor financiare
+6619,"Activitati auxiliare intermedierilor financiare, exclusiv activitati de asigurari si fonduri de pensii"
+6621,Activitati de evaluare a riscului de asigurare si a pagubelor
+6622,Activitati ale agentilor si broker-ilor de asigurari
+6629,Alte activitati auxiliare activitatilor de asigurari si fonduri de pensii
+6630,Activitati de administrare a fondurilor
+6810,Cumpararea si vânzarea de bunuri imobiliare proprii
+6820,Închirierea si subînchirierea bunurilor imobiliare proprii sau în leasing
+6831,Agentii imobiliare
+6832,Administrarea imobilelor pe baza de comision sau contract
+6910,Activitati juridice
+6920,Activitati de contabilitate si audit financiar; consultanta în domeniul fiscal
+7010,"Activitati ale directiilor (centralelor), birourilor administrative centralizate"
+7021,Activitati de consultanta în domeniul relatiilor publice si al comunicarii
+7022,Activitati de consultanta pentru afaceri si management
+7111,Activitati de arhitectura
+7112,Activitati de inginerie si consultanta tehnica legate de acestea
+7120,Activitati de testare si analize tehnice
+7211,Cercetare-dezvoltare în biotehnologie
+7219,Cercetare-dezvoltare în alte stiinte naturale si inginerie
+7220,Cercetare- dezvoltare în stiinte sociale si umaniste
+7311,Activitati ale agentiilor de publicitate
+7312,Servicii de reprezentare media
+7320,Activitati de studiere a pietei si de sondare a opiniei publice
+7410,Activitati de design specializat
+7420,Activitati fotografice
+7430,Activitati de traducere scrisa si orala (interpreti)
+7490,"Alte activitati profesionale, stiintifice si tehnice n.c.a."
+7500,Activitati veterinare
+7711,Activitati de închiriere si leasing de autoturisme si autovehicule rutiere usoare
+7712,Activitati de închiriere si leasing de autovehicule rutiere grele
+7721,Activitati de închiriere si leasing de bunuri recreationale si echipament sportiv
+7722,"Închirierea de casete video si discuri (CD-uri, DVD-uri)"
+7729,Activitati de închiriere si leasing cu alte bunuri personale si gospodaresti n.c.a.
+7731,Activitati de închiriere si leasing de masini si echipamente agricole
+7732,Activitati de închiriere si leasing de masini si echipamente pentru constructii
+7733,Activitati de închiriere si leasing de masini si echipamente de birou (inclusiv calculatoare)
+7734,Activitati de închiriere si leasing de masini si echipamente de transport pe apa
+7735,Activitati de închiriere si leasing de masini si echipamente de transport aerian
+7739,"Activitati de închiriere si leasing-ul altor masini, echipamente si bunuri tangibile"
+7740,Leasing de bunuri intangibile (exclusiv financiare)
+7810,Activitati ale agentiilor de plasare a fortei de munca
+7820,"Activitati de contractare, pe baze temporare, a personalului"
+7830,Alte servicii de furnizare a fortei de munca
+7911,Activitati ale agentiilor turistice
+7912,Activitati ale tur-operatorilor
+7990,Alte servicii de rezervare si asistenta turistica
+8010,Activitati de protectie si garda
+8020,Activitati de servicii privind sistemele de securizare
+8030,Activitati de investigatii
+8110,Activitati de servicii suport combinate
+8121,Activitati generale (nespecializate) de curatenie interioara a cladirilor
+8122,"ctivitati specializate de curatenie a cladirilor, mijloacelor de transport, masini si utilaje"
+8129,Alte activitati de curatenie n.c.a.
+8130,Activitati de întretinere peisagistica
+8211,Activitati combinate de secretariat
+8219,"Activitati de fotocopiere, de pregatire a documentelor si alte activitati specializate de secretariat"
+8220,Activitati ale centrelor de intermediere telefonica (call center)
+8230,"Activitati de organizare a expozitiilor, târgurilor si congreselor"
+8291,Activitati ale agentiilor de colectare si a birourilor (oficiilor) de raportare a creditului
+8292,Activitati de ambalare
+8299,Alte activitati de servicii suport pentru întreprinderi n.c.a.
+8411,Servicii de administratie publica generala
+8412,"eglementarea activitatilor organismelor care presteaza servicii în domeniul îngrijirii sanatatii,"
+8413,Reglementarea si eficientizarea activitatilor economice
+8421,Activitati de servicii externe
+8422,Activitati de aparare nationala
+8423,Activitati de justitie
+8424,Activitati de ordine publica si de protectie civila
+8425,Activitati de lupta împotriva incendiilor si de prevenire a acestora
+8430,Activitati de protectie sociala obligatorie
+8510,Învatamânt prescolar
+8520,Învatamânt primar
+8531,Învatamânt secundar general
+8532,"Învatamânt secundar, tehnic sau profesional"
+8541,Învatamânt superior non- universitar
+8542,Învatamânt superior universitar
+8551,Învatamânt în domeniul sportiv si recreational
+8552,"Învatamânt în domeniul cultural (limbi straine, muzica, teatru, dans, arte plastice, si alte arte"
+8553,Scoli de conducere (pilotaj)
+8559,Alte forme de învatamânt n.c.a.
+8560,Activitati de servicii suport pentru învatamânt
+8610,Activitati de asistenta spitaliceasca
+8621,Activitati de asistenta medicala generala
+8622,Activitati de asistenta medicala specializata
+8623,Activitati de asistenta stomatologica
+8690,Alte activitati referitoare la sanatatea umana
+8710,Activitati ale centrelor de îngrijire medicala
+8720,"Activitati ale centrelor de recuperare psihica si de dezintoxicare, exclusiv spitale"
+8730,ctivitati ale caminelor de batrâni si ale caminelor pentru persoane aflate în incapacitate de a se îngriji singure
+8790,"Alte activitati de asistenta sociala, cu cazare n.c.a."
+8810,"Activitati de asistenta sociala, fara cazare, pentru batrâni si pentru persoane aflate în incapacitate de a se îngriji singure"
+8891,Activitati de îngrijire zilnica pentru copii
+8899,"Alte activitati de asistenta sociala, fara cazare, n.c.a."
+9001,Activitati de interpretare artistica (spectacole)
+9002,Activitati suport pentru interpretare artistica (spectacole)
+9003,Activitati de creatie artistica
+9004,Activitati de gestionare a salilor de spectacole
+9101,Activitati ale bibliotecilor si arhivelor
+9102,Activitati ale muzeelor
+9103,"Gestionarea monumentelor, cladirilor istorice si a altor obiective de interes turistic"
+9104,"Activitati ale gradinilor zoologice, botanice si ale rezervatiilor naturale"
+9200,Activitati de jocuri de noroc si pariuri
+9311,Activitati ale bazelor sportive
+9312,Activitati ale cluburilor sportive
+9313,Activitati ale centrelor de fitness
+9319,Alte activitati sportive
+9321,Bâlciuri si parcuri de distractii
+9329,Alte activitati recreative si distractive n.c.a.
+9411,Activitati ale organizatiilor economice si patronale
+9412,Activitati ale organizatiilor profesionale
+9420,Activitati ale sindicatelor salariatilor
+9491,Activitati ale organizatiilor religioase
+9492,Activitati ale organizatiilor politice
+9499,Activitati ale altor organizatii n.c.a.
+9511,Repararea calculatoarelor si a echipamentelor periferice
+9512,Repararea echipamentelor de comunicatii
+9521,"Repararea aparatelor electronice, de uz casnic"
+9522,Repararea dispozitivelor de uz gospodaresc si a echipamentelor pentru casa si gradina
+9523,Repararea încaltamintei si a articolelor din piele
+9524,Repararea mobilei si a furniturilor casnice
+9525,Repararea ceasurilor si a bijuteriilor
+9529,Repararea articolelor de uz personal si gospodaresc n.c.a.
+9601,Spalarea si curatarea (uscata) articolelor textile si a produselor din blana
+9602,Coafura si alte activitati de înfrumusetare
+9603,Activitati de pompe funebre si similare
+9604,Activitati de întretinere corporala
+9609,Alte activitati de servicii n.c.a.
+9700,Activitati ale gospodariilor private în calitate de angajator de personal casnic
+9810,Activitati ale gospodariilor private de producere de bunuri si servicii destinate s ss consumului propriu
+9820,Activitati ale gospodariilor private de producere de servicii pentru scopuri proprii
+9900,Activitati ale organizatiilor si organismelor extrateritoriale
